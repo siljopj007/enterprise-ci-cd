@@ -12,8 +12,6 @@ Enterprise-style CI pipeline using:
 * DockerHub
 
 All execution happens automatically inside GitHub-hosted runners.
-* siljo
-* jose
-* hellooooo
-* hiiiii
+* siljo jose
+* hellooooo hiiiii
 
